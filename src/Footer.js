@@ -11,13 +11,13 @@ export default function Footer() {
           <span>Get connected with us on social networks:</span>
         </div>
         <div>
-          <a href='#' className='me-4 text-reset'>
+          <a href='https://www.instagram.com/shubhamm_29/' className='me-4 text-reset'>
             <MDBIcon fab icon="instagram" />
           </a>
-          <a href='#' className='me-4 text-reset'>
+          <a href='https://www.linkedin.com/in/shubham-gupta-73401b1bb/' className='me-4 text-reset'>
             <MDBIcon fab icon="linkedin" />
           </a>
-          <a href='#' className='me-4 text-reset'>
+          <a href='https://github.com/ShubhamGupta-29' className='me-4 text-reset'>
             <MDBIcon fab icon="github" />
           </a>
         </div>
@@ -63,10 +63,10 @@ export default function Footer() {
               </p>
               <p>
                 <MDBIcon icon="envelope" className="me-3" />
-                Skyshottrading@gmail.com
+                shubham.gupta29062002@gmail.com
               </p>
               <p>
-                <MDBIcon icon="phone" className="me-3" /> + 01 234 567 88
+                <MDBIcon icon="phone" className="me-3" /> + 9643508870
               </p>
             </MDBCol>
           </MDBRow>
@@ -74,7 +74,7 @@ export default function Footer() {
       </section>
 
       <div className='text-center p-3' style={{ backgroundColor: 'rgba(0, 0, 0, 0.05)' }}>
-        © 2023 Copyright:  <NavLink className='text-reset' to="/">Skyshottrading.com</NavLink>
+        © 2023 Copyright:  <NavLink className='text-reset' to="/">SKYSHOT</NavLink>
         
       </div>
     </MDBFooter>
